@@ -15,11 +15,21 @@ VHOA Framework:
 
 3. Individuals have the ability to opt out of the VHOA of their choice.
 
-4. Individuals have the ability to create new VHOA's with different services, rules and responsibilities.
+4. Individuals have the ability to create new VHOA's with different rules, services and responsibilities.
 
-GGC is being built on a foundation of individual property rights. To ensure the prosperity of a property rights driven community, and an abundant future potential conflicts between individuals will be resolved by voluntary arbitration.
+Resolution of Desputes:
 
-We plan to not have any HOA fees for residents since GGC can cover cost of basic services via other means. However, there will be reasonable below-market rates for utilities and services offered by GGC such as water, power and waste management. 
+GGC is being built on a foundation of individual property rights. To ensure the prosperity of a property rights driven community, and an abundant future potential conflicts between individuals will be resolved by voluntary arbitration means.
+
+VHOA Fees:
+
+VHOA fees will be based on the services the members of the VHOA opt into. 
+
+Services Competition:
+
+Utilities and services can be offered by GGC such as water, power and waste management and other businesses / individuals are invited to compete in the open market and offer the same, similar or different services to the residents of Gult's Gulch Chile. 
+
+Sample VHOA Services, Rules and Responsibilities Agreement:
 
 While we intend to minimize rules and instead facilitate solutions with guidelines and resources made available, there will need to be some recourse against those who violate our community rules. Our simple approach to conflict resolution in these matters is to send a written warning of any violations, giving the resident 30 days to comply or establish an acceptable compliance plan. If after 30 days there is still an unresolved issue in the opinion of GGC management, the resident and GGC and anyone who has a complaint against the resident will immediately enter binding mediation facilitated by experienced mediators who will determine the contractually binding remedy of the situation. 
 As a point of reference, GGC’s operational business plan for sustainable infrastructure and business services we plan to offer residents fall into three main categories:
