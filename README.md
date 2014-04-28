@@ -8,10 +8,14 @@ Article I : General Guidelines
 Galt’s Gulch Chile (GGC) is operated under the belief that voluntarism, innovation and responsibility are the best principles to guide our community. In order to realize these ideals we seek to establish market prices for services and opt in / opt out based mechanisms to enable people to interact in a voluntary and peaceful manor. This document is intended to illustrate an outline of intentions and goals in terms of home owners’ association guidelines. 
 
 VHOA Framework:
-Individuals will choose a voluntary home owners association.
-Individuals have the ability to opt into the VHOA of their choice.
-Individuals have the ability to opt out of the VHOA of their choice.
-Individuals have the ability to create new VHOA's with different services, rules and responsibilities.
+
+1. Individuals will choose a voluntary home owners association.
+
+2. Individuals have the ability to opt into the VHOA of their choice.
+
+3. Individuals have the ability to opt out of the VHOA of their choice.
+
+4. Individuals have the ability to create new VHOA's with different services, rules and responsibilities.
 
 GGC is being built on a foundation of individual property rights. To ensure the prosperity of a property rights driven community, and an abundant future potential conflicts between individuals will be resolved by voluntary arbitration.
 
