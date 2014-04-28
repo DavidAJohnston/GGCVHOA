@@ -44,7 +44,7 @@ As a point of reference, GGC’s operational business plan for sustainable infra
 
 Maintaining clean surface and ground water and conserving water in general, is a top priority. GGC owns tremendous above/below-ground water rights, but keeping our water resource healthy is perhaps our most important priority for the future. 
 
-### 2. Septic Non-polusion Responsibility  
+### 2. Septic Non-pollution Responsibility  
 
 Residents will not be permitted to install traditional septic systems with leach fields that percolate human solid waste into the ground. 
 
