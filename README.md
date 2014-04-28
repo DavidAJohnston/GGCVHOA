@@ -15,7 +15,7 @@ Galt’s Gulch Chile (GGC) is operated under the belief that voluntarism, innova
 
 3. Individuals have the ability to opt out of the VHOA of their choice.
 
-4. Individuals have the ability to create new VHOA's with different rules, services and responsibilities.
+4. Individuals have the ability to create new VHOA's with different services, rights and responsibilities.
 
 ### Resolution of Desputes:
 
@@ -40,21 +40,45 @@ As a point of reference, GGC’s operational business plan for sustainable infra
 
 ### Rules/guidelines related to water:
 
-### 1.	Maintaining clean surface and ground water and conserving water in general, is a top priority. GGC owns tremendous above/below-ground water rights, but keeping our water resource healthy is perhaps our most important priority for the future. 
+### 1.	Maintaining Individual Water Rights
 
-### 2.	Residents will not be permitted to install traditional septic systems with leach fields that percolate human solid waste into the ground. Instead, residents will be encouraged to use the composting toilet installation/maintenance service that GGC will be offering, or residents can install low flow toilets and a simple holding tank system that would be pumped out on an annual or bi-annual basis. Modern composting toilets are more affordable than septic systems and have zero odors or maintenance issues. GGC will offer free residential removal service of composting toilet materials because this material can be used as a valuable input GGC’s compost production and agricultural operations.
+Maintaining clean surface and ground water and conserving water in general, is a top priority. GGC owns tremendous above/below-ground water rights, but keeping our water resource healthy is perhaps our most important priority for the future. 
 
-### 3.	Grey-water: GGC will be offering a plumbing/installation/design service to residents to install simple and effective grey-water systems. This means water from sinks, showers, laundry, etc will be drained into the gardens, yard and landscape surrounding each home. This will minimize the volume of water going into septic holding tanks and thereby minimize the frequency/cost of tank pump-out while enabling residents to water residential gardens and yards with non-pathogenic waste water.
+### 2. Septic Non-polusion Responsibility  
 
-### 4.	Community water system: every lot will have access to a gravity-fed water system that will be active regardless of any potential power grid outages. GGC will use primarily solar powered pumps to keep high elevation cisterns, water towers and reservoirs full with water from underground aquifers at all times. Even if the grid power goes down, all irrigation and residential water supply will continue without interruption. 
+Residents will not be permitted to install traditional septic systems with leach fields that percolate human solid waste into the ground. 
 
-### 5.	There will be no community sewer or central human bio-solid waste disposal system, at least initially, although this may be developed in the future. If a sewer/solids treatment system is developed, GGC residents will have the option of using it, or continuing with their composting toilet or holding tank system. 
+### 3. Composting Materials Removal Service
 
-### 6.	All household cleaning products used by residents must be non-toxic natural products, approved by GGC or sourced from the GGC store. This is to preserve the health of the land and water and will not add any significant incremental cost of living to residents. GGC is currently sourcing high quality non-toxic household products from the USA, Australia and other markets.
+Residents will be encouraged to use the composting toilet installation/maintenance service that GGC will be offering, or residents can install low flow toilets and a simple holding tank system that would be pumped out on an annual or bi-annual basis. Modern composting toilets are more affordable than septic systems and have zero odors or maintenance issues. GGC will offer a residential removal service of composting toilet materials because this material can be used as a valuable input GGC’s compost production and agricultural operations.
 
-### 7.	Residents will be charged for their water use, based on the volume of water they use on a monthly basis. GGC will install a water meter on each line into each residential property. Water billing rates in other communities in Chile are typically 5 Pesos per liter of water use, roughly $.01 USD per liter, which is similar to many US municipal water rates. In the USA the average household water use per person per day is 70 gallons, 20%-30% of which is for conventional high water-volume toilets that GGC residents will not have. We expect that average residential water volume per person at GGC will be 50 gallons or 200 liters per person per day. GGC’s rates per liter of water use will initially be set at 2 Chilean Pesos per liter, less than half of the cost of comparable Chilean communities. Rates may change over time depending on potential changes to GGC’s cost of pumping/managing water, but any rate changes will be voted on by resident-members in order to be approved or amended. 
+### 4. Gray Water System Service	
 
-### 8.	Ponds and water features: Residents will be allowed and encouraged to install ponds, swales and other water retention features, especially those designed to retain rain water. However, ponds and water features cannot in any way block or infringe on any year round or seasonal stream/river flows, and residents will not be allowed to drill their own well without paying GGC’s established rates per liter of water used. All underground aquifer/water rights on all residential properties are held in ownership by GGC.
+Grey-water: GGC will be offering a plumbing/installation/design service to residents to install simple and effective grey-water systems. This means water from sinks, showers, laundry, etc will be drained into the gardens, yard and landscape surrounding each home. This will minimize the volume of water going into septic holding tanks and thereby minimize the frequency/cost of tank pump-out while enabling residents to water residential gardens and yards with non-pathogenic waste water.
+
+### 5.	Water System Service 
+
+Every resident will be offered a service accessing gravity-fed water system that will be active regardless of any potential power grid outages. GGC will use primarily solar powered pumps to keep high elevation cisterns, water towers and reservoirs full with water from underground aquifers at all times. Even if the grid power goes down, all irrigation and residential water supply will continue without interruption. 
+
+### 6.	Sewer Treatment System Service
+
+If a sewer/solids treatment system is developed, GGC residents will have the option of using it, or continuing with their composting toilet or holding tank system. 
+
+### 7.	Non Polusion Cleaning Products
+
+All household cleaning products used by residents must be non-toxic natural products, approved by GGC or sourced from the GGC store. This is to preserve the health of the land and water and will not add any significant incremental cost of living to residents. GGC is currently sourcing high quality non-toxic household products from the USA, Australia and other markets.
+
+### 8.	Water Service Calculation
+
+Residents will be charged for their water use, based on the volume of water they use on a monthly basis. GGC will install a water meter on each line into each residential property. Water billing rates in other communities in Chile are typically 5 Pesos per liter of water use, roughly $.01 USD per liter, which is similar to many US municipal water rates. In the USA the average household water use per person per day is 70 gallons, 20%-30% of which is for conventional high water-volume toilets that GGC residents will not have. We expect that average residential water volume per person at GGC will be 50 gallons or 200 liters per person per day. GGC’s rates per liter of water use will initially be set at 2 Chilean Pesos per liter, less than half of the cost of comparable Chilean communities. Rates may change over time depending on potential changes to GGC’s cost of pumping/managing water, but any rate changes will be voted on by resident-members in order to be approved or amended. 
+
+### 9.	Ponds and water features: 
+
+Residents will be allowed and encouraged to install ponds, swales and other water retention features, especially those designed to retain rain water. However, ponds and water features cannot in any way block or infringe on any year round or seasonal stream/river flows, and 
+
+### 10. Well Service
+
+residents will not be allowed to drill their own well without paying GGC’s established rates per liter of water used. All underground aquifer/water rights on all residential properties are held in ownership by GGC.
 
 ### Rules/guidelines related to agriculture and waste management:
 
