@@ -5,31 +5,55 @@ Galt’s Gulch Chile Voluntary Home Owners Association
 
 ### Article I : General Guidelines
 
-Galt’s Gulch Chile (GGC) is operated under the belief that voluntarism, innovation and responsibility are the best principles to guide our community. In order to realize these ideals we seek to establish market prices for services and opt in / opt out based mechanisms to enable people to interact in a voluntary and peaceful manor. This document is intended to illustrate an outline of intentions and goals in terms of home owners’ association guidelines. 
+The "GGC Voluntary Home Owners Association" is operated under the belief that voluntarism, innovation and responsibility are the best principles to guide our community. In order to realize these ideals we seek to establish market prices for services and opt in / opt out based mechanisms to enable people to interact in a voluntary and peaceful manor. This document is intended to illustrate an outline of intentions and goals in terms of home owners’ association guidelines. 
 
 ### VHOA Framework:
 
-1. Individuals will choose a voluntary home owners association.
+1. Individual residents will choose a voluntary home owners association.
 
-2. Individuals have the ability to opt into the VHOA of their choice.
+2. Individual residents the ability to opt into the VHOA of their choice.
 
-3. Individuals have the ability to opt out of the VHOA of their choice.
+3. Individual residents have the ability to opt out of the VHOA of their choice.
 
-4. Individuals have the ability to create new VHOA's with different services, rights and responsibilities.
+4. Individual residents have the ability to create new VHOA's with different services, rights and responsibilities.
 
 ### Resolution of Desputes:
 
-GGC is being built on a foundation of individual property rights. To ensure the prosperity of a property rights driven community, and an abundant future potential conflicts between individuals will be resolved by voluntary arbitration means.
+Galt's Gulch Chile is being built on a foundation of individual property rights. To ensure the prosperity of a property rights driven community, and an abundant future, potential conflicts between individuals and service providers will be resolved by voluntary arbitration means.
 
 ### VHOA Fees:
 
-VHOA fees will be based on the services the members of the VHOA opt into. 
+VHOA fees will be based on the services the members of the VHOA opt into and out of. 
 
 ### Services Competition:
 
-Utilities and services can be offered by GGC such as water, power and waste management and other businesses / individuals are invited to compete in the open market and offer the same, similar or different services to the residents of Gult's Gulch Chile. 
+Utilities and services can be offered by GGC company such as water, power and waste management and other businesses / individuals are encouranged and invited to compete in the open market and offer the same, similar or different services to the residents of Gult's Gulch Chile. 
 
-### Sample VHOA Services, Rules and Responsibilities Agreement:
+### Sample VHOA Services, Rules and Responsibilities Agreements ALPHA GGCVHOA, BETA GGCVHOA and GAMMA GGCVHOA:
+
+### ALPHA Sample VHOA Services, Rules and Responsibilities Agreements
+
+### Services:
+1. All services including water, agriculture, food, waste mangement and energy will be contracted individually by the residents of the ALPHA GGCVHOA.
+
+### Rules:
+2. No rules or zoning beyond the minimums required by Chilean law shall apply to the residents of the ALPHA GGCVHOA.
+
+### Responsibilities:
+3. Conflicts that arise between individuals and service providers will be resolved by voluntary arbitration means.
+
+### BETA Sample VHOA Services, Rules and Responsibilities Agreements
+
+### Services:
+1. All services including water, agriculture, food, waste mangement and energy will be contracted individually or by joint buying arrangements by the residents of the BETA GGCVHOA on a service by service basis.
+
+### Rules:
+2. No rules or zoning beyond the minimums required by Chilean law shall apply to the residents of the BETA GGCVHOA.
+
+### Responsibilities:
+3. Conflicts that arise between individuals and service providers will be resolved by voluntary arbitration means.
+
+### Gamma Sample VHOA Services, Rules and Responsibilities Agreements
 
 While we intend to minimize rules and instead facilitate solutions with guidelines and resources made available, there will need to be some recourse against those who violate our community rules. Our simple approach to conflict resolution in these matters is to send a written warning of any violations, giving the resident 30 days to comply or establish an acceptable compliance plan. If after 30 days there is still an unresolved issue in the opinion of GGC management, the resident and GGC and anyone who has a complaint against the resident will immediately enter binding mediation facilitated by experienced mediators who will determine the contractually binding remedy of the situation. 
 As a point of reference, GGC’s operational business plan for sustainable infrastructure and business services we plan to offer residents fall into three main categories:
@@ -110,43 +134,43 @@ A separate area of stables and pasture is available for residents use near the n
 
 ### Rules and guidelines regarding housing, energy, communications, motor vehicle-traffic:
 
-### 1.	
+### 1.	Solar Systems
 
 GGC will be offering energy related services to residents and the regional markets including solar hot water and solar electric system installation/service and compost-powered hot water systems through our own staff and our approved partners. Residents are free to do business with other solar or residential energy system vendors. 
 
-### 2.	
+### 2.	Building Height Restriction
 
 Wind turbines or communications towers above 10 meters in height above the roof line of a residential home will not be permitted on residential lots without approval of GGC and adjoining property owners. The wind resource at GGC is not a viable source of energy other than for small scale irrigation systems. 
 
-### 3.	
+### 3.	Wood Burning Allowed
 
 Wood-burning stoves/furnaces for home heating/hot-water: there will be no restrictions against this nor any rules regarding what type of wood-burning appliance is used. But it should be noted that the ecology of the area is not suited for large scale firewood-harvesting, nor is there much need for winter space heating. A primary goal of GGC over time will be to increase the mass, size and height of the forest canopy across the land to help retain moisture and enable more agricultural/ecological abundance. Tree coppicing for firewood production with fast-growing species such as Black Locust is an example of the kind of biomass energy GGC would highly encourage and facilitate. 
 
-### 4.	
+### 4.	No Airplane or Helicopter Landing
 
 Airplane and helicopter landing areas: helipads or landing strips will not be allowed on lots owned by residents, to avoid disturbing the community. However, a landing strip and heli-pad are available nearby in Curacavi. Use of radio controlled aircraft is allowed only directly above property owned by the user, or over non-residential areas and is restricted to between the hours of 10am and 6pm. 
 
-### 5.	
+### 5.	No motorized all-terrain off-road vehicles
 
 No motorized all-terrain off-road vehicles may be used in residential property, other than on rights of way and roads. ATV-friendly trails in the mountains and property in the Paungue region (3 kilometers from GGC) are available for use by off road motorized vehicles.  
 
-### 6.	
+### 6.	No Mobile Homes or Temorary Housing for more than 12 Months
 
 Housing styles:  no mobile homes, double-wides or homes otherwise understood to be “temporary housing” will be allowed on site for more than one year without approval of GGC and adjoining property owners. Homes may not be taller than two full stories, or 12 meters,  from the ground level to the roof-peak at any given vertical line, without approval from GGC and adjoining property owners, in order to avoid impeding scenic views for other residents. Creative home design/construction will be encouraged including alternative designs such as earth ships, domes, tiny houses and adapted cargo containers. The most appropriate building styles for this region will maximize thermal mass, shade from summer sun, and solar exposure during winter months. There will be no rules about home colors, materials or other building codes, and no building permits are required by Chilean government. 
 
-### 7.	
+### 7.	No Noise Rules - Conflights Settled by Mediation
 
 Noise ordinance: there will be no rules about quite hours or noise ordinances. If any resident has a problem with noise coming from another property, GGC will be happy to provide low cost mediation service to enable quick and reasonable settlement of any disputes between neighbors related to noise or any other issue. 
 
-### 8.	
+### 8.	No Landscraping Rules
 
 Landscaping: there will be no rules requiring lawns to be mowed or otherwise dictating how residents maintain their property, unless there are any runoff or waste issues that are infringing upon someone else’s property in which case binding arbitration shall be the remedy.
 
-### 9.	
+### 9.	Business Incubator
 
 Innovation and Business District: The GGC community center and Business District will include land that is available for lease for commercial enterprise. GGC’s innovation hub will be designed to facilitate business development by GGC’s current and future residents offering free and paid consulting to help incubate and encourage business. We’ll be inviting innovators and experts from around the world to use GGC as a research and development base while sharing their knowledge and offerings with GGC residents to incubate creative and productive enterprise.  
 
-### 10.	
+### 10.	Businesses Welcome Unless in Conflight with Clilean Law
 
 Business operation and “zoning”: any GGC resident is encouraged to operate a home based business, agricultural or otherwise, from their property, within the limitations described herein. Any conflicts between GGC and residents regarding business activities that are disturbing to other residents shall be resolved by binding mediation. Business licenses or permits will not be required by GGC, however there may be certain steps required by Chilean law in these regards depending on the type of business. 
 
