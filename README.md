@@ -33,31 +33,31 @@ Utilities and services can be offered by GGC company such as water, power and wa
 
 ### ALPHA Sample VHOA Services, Rules and Responsibilities Agreements
 
-### Services:
+### Services: Individual Contracting of Services
 
-1. All services including water, agriculture, food, waste mangement and energy will be contracted individually by the residents of the ALPHA GGCVHOA.
+All services including water, agriculture, food, waste mangement and energy will be contracted individually by the residents of the ALPHA GGCVHOA.
 
-### Rules:
+### Rules: No Rules or Zoning Beyond Chilean Law
 
-2. No rules or zoning beyond the minimums required by Chilean law shall apply to the residents of the ALPHA GGCVHOA.
+No rules or zoning beyond the minimums required by Chilean law shall apply to the residents of the ALPHA GGCVHOA.
 
-### Responsibilities:
+### Responsibilities: Voluntary arbitration 
 
-3. Conflicts that arise between individuals and service providers will be resolved by voluntary arbitration means.
+Conflicts that arise between individuals and service providers will be resolved by voluntary arbitration means.
 
 ### BETA Sample VHOA Services, Rules and Responsibilities Agreements
 
-### Services:
+### Services: Individual and Joint Contracting of Services
 
-1. All services including water, agriculture, food, waste mangement and energy will be contracted individually or by joint buying arrangements by the residents of the BETA GGCVHOA on a service by service basis.
+All services including water, agriculture, food, waste mangement and energy will be contracted individually or by joint buying arrangements by the residents of the BETA GGCVHOA on a service by service basis.
 
-### Rules:
+### Rules: No Rules or Zoning Beyond Chilean Law
 
-2. No rules or zoning beyond the minimums required by Chilean law shall apply to the residents of the BETA GGCVHOA.
+No rules or zoning beyond the minimums required by Chilean law shall apply to the residents of the BETA GGCVHOA.
 
-### Responsibilities:
+### Responsibilities: Voluntary Arbitration
 
-3. Conflicts that arise between individuals and service providers will be resolved by voluntary arbitration means.
+Conflicts that arise between individuals and service providers will be resolved by voluntary arbitration means.
 
 ### Gamma Sample VHOA Services, Rules and Responsibilities Agreements
 
