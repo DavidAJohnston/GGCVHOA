@@ -1,4 +1,4 @@
-### Covenant Rules/ Guidelines Related to Agriculture and Waste Management Organic Version:
+### Covenant Rules/ Guidelines Related to Agriculture and Waste Management Organic Version from Gamma Agreement:
 
 1.	GGC is committed to 100% organic agriculture and a complete ban on GMO seeds and chemical pesticides/herbicides. All seeds, plants and organisms raised in the community need to be certified organic or sourced from the GGC farm store directly. 
 
