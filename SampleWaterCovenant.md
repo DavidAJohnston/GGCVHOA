@@ -1,4 +1,5 @@
 Covenant Rules / Guidelines Related to Water
+
 1.	Maintaining clean surface and ground water and conserving water in general, is a top priority. GGC owns tremendous above/below-ground water rights, but keeping our water resource healthy is perhaps our most important priority for the future. 
 
 2.	Residents will not be permitted to install traditional septic systems with leach fields that percolate human solid waste into the ground. Instead, residents will be encouraged to use the composting toilet installation/maintenance service that GGC will be offering, or residents can install low flow toilets and a simple holding tank system that would be pumped out on an annual or bi-annual basis. Modern composting toilets are more affordable than septic systems and have zero odors or maintenance issues. 
