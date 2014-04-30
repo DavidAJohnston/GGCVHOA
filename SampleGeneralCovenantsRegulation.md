@@ -1,5 +1,7 @@
 General Covenants and Regulations
+
 Article I : General Guidelines
+
 Galt’s Gulch Chile Voluntary Home Owners Association Rules/Guidelines
 The "GGC Voluntary Home Owners Association" is operated under the belief that voluntarism, innovation and responsibility are the best principles to guide our community. In order to realize these ideals we seek to establish market prices for services and opt in / opt out based mechanisms to enable people to interact in a voluntary and peaceful manor. This document is intended to illustrate an outline of intentions and goals in terms of home owners’ association guidelines. 
 
