@@ -1,4 +1,4 @@
-### General Covenants and Regulations
+### General Covenants and Regulations from Gamma Agreement
 
 Article I : General Guidelines
 
