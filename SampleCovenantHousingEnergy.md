@@ -1,6 +1,4 @@
-GGCVHOA GAMMA
-=======
-Covenant Rules and Guidelines Regarding Housing, Energy, Communications, Motor Vehicle-Traffic
+### Covenant Rules and Guidelines Regarding Housing, Energy, Communications, Motor Vehicle-Traffic from Gamma Agreement
 
 1.	Wind turbines or communications towers above 10 meters in height above the roof line of a residential home will not be permitted on residential lots without approval of GGC and adjoining property owners. The wind resource at GGC is not a viable source of energy other than for small scale irrigation systems. 
 
