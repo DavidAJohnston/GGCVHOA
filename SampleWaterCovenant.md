@@ -1,4 +1,4 @@
-Covenant Rules / Guidelines Related to Water
+### Covenant Rules / Guidelines Related to Water from Gamma Agreement
 
 1.	Maintaining clean surface and ground water and conserving water in general, is a top priority. GGC owns tremendous above/below-ground water rights, but keeping our water resource healthy is perhaps our most important priority for the future. 
 
