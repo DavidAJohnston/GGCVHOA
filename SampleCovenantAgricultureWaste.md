@@ -12,3 +12,4 @@ a.	Two cattle or dairy cows; 6 sheep/goats/llamas; 12 chickens; 1 rooster; 2 hor
 
 b.	Any infraction of these limitations will result in a warning with 30 days to remedy, followed by forced sale of the number of animals held on the property in excess of limits, if mediation finds the resident negligent of the rules.
 
+
