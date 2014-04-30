@@ -1,4 +1,4 @@
-General Covenants and Regulations
+### General Covenants and Regulations
 
 Article I : General Guidelines
 
