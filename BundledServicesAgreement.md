@@ -1,4 +1,4 @@
-GGC Bundled Services Agreement
+### GGC Bundled Services Agreement
 
 As a point of reference, GGC’s operational business plan for sustainable infrastructure and business services we plan to offer residents fall into three main categories:
 
