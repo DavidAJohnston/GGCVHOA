@@ -7,13 +7,13 @@ This website (Github Repository) lists the documents associated with the Galt's 
 
 ### Article I : General Guidelines
 
-The "GGC Voluntary Home Owners Association" is operated under the belief that voluntarism, innovation and responsibility are the best principles to guide our community. In order to realize these ideals we seek to establish market prices for services and opt in / opt out based mechanisms to enable people to interact in a voluntary and peaceful manor. This document is intended to illustrate an outline of intentions and goals in terms of home owners’ association guidelines. 
+The "GGC Voluntary Home Owners Association" is operated under the belief that voluntarism, innovation and responsibility are the best principles to guide our community. In order to realize these ideals we seek to establish market prices for services and opt in / opt out based mechanisms to enable people to interact in a voluntary and peaceful manner. This document is intended to illustrate an outline of intentions and goals in terms of home owners’ association guidelines. 
 
 ### VHOA Framework:
 
 1. Individual residents will choose a voluntary home owners association.
 
-2. Individual residents the ability to opt into the VHOA of their choice.
+2. Individual residents have the ability to opt into the VHOA of their choice.
 
 3. Individual residents have the ability to opt out of the VHOA of their choice.
 
